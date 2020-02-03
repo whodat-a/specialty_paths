@@ -1,0 +1,145 @@
+name,color
+Aerospace Medicine,#82a24d
+Anesthesiology,#834cd0
+Clinical Genetics and Genomics,#65d053
+Dermatology,#8f37b4
+Diagnostic Radiology,#67b021
+Emergency Medicine,#466cf0
+Family Medicine,#b2c22f
+General Surgery,#344fc3
+Internal Medicine,#90cf54
+Interventional Radiology,#6750c9
+Medical Genetics,#38a435
+Medical Physics,#c45ad7
+Neurology,#44cb6c
+Neurosurgery,#cc2da0
+Obstetrics and Gynecology,#67a93c
+Occupational Medicine,#c375f5
+Ophthalmology,#9fc348
+Orthopaedic Surgery,#2580fe
+Otolaryngology,#d5b731
+Pathology,#6864d9
+Pediatrics,#819f26
+Physical Medicine and Rehabilitation,#867af4
+Plastic Surgery,#ec9926
+Psychiatry,#4883ef
+Public Health and General Preventive Medicine,#d9a734
+Radiation Oncology,#9d63d9
+Thoracic and Cardiac Surgery,#2d7c26
+Urology,#ad38a6
+Vascular Surgery,#38cc94
+Addiction Medicine,#f34292
+Clinical Informatics,#3eaa61
+Medical Toxicology,#e85ec1
+Preventive Medicine,#8ac66a
+Undersea and Hyperbaric Medicine,#7a45a7
+Adult Cardiothoracic Anesthesiology,#a4b34c
+Critical Care Medicine,#5c51b1
+Hospice and Palliative Medicine,#c4b64c
+Obstetric Anesthesiology,#3360bd
+Pain Medicine,#eb7230
+Pediatric Anesthesiology,#4b96eb
+Sleep Medicine,#e25528
+Medical Biochemical Genetics,#34b9e1
+Molecular Genetic Pathology,#ca2d22
+Dermatopathology,#49d2d5
+Micrographic Surgery and Dermatologic Oncology,#de3448
+Pediatric Dermatology,#2bbcce
+Abdominal Radiology,#e52f66
+Endovascular Surgical Neuroradiology,#62ceb2
+Musculoskeletal Radiology,#d2237b
+Neuroradiology,#51903f
+Nuclear Radiology,#ed7fe4
+Pediatric Radiology,#708524
+Vascular and Interventional Radiology,#c57eea
+Anesthesiology Critical Care Medicine,#4c6a18
+Emergency Medical Services,#a458bc
+Internal Medicine-Critical Care Medicine,#87c57d
+Pediatric Emergency Medicine,#a93686
+Sports Medicine,#72bf89
+Adolescent Medicine,#c64e9f
+Geriatric Medicine,#2f8152
+Complex General Surgical Oncology,#eb5e9b
+Pediatric Surgery,#4f9966
+Surgery of the Hand,#b379d8
+Surgical Critical Care,#959035
+Adult Congenital Heart Disease,#8c7ce2
+Advanced Heart Failure and Transplant Cardiology,#c38024
+Cardiology,#6781dd
+Clinical Cardiac Electrophysiology,#dd802f
+Endocrinology,#53a4e5
+Gastroenterology,#be3e20
+Hematology and Medical Oncology,#72bae8
+Infectious Disease,#a02c17
+Interventional Cardiology,#3fadaf
+Medical Oncology,#f16354
+Nephrology,#47a586
+Pulmonary Disease,#dc4664
+Pulmonary Disease and Critical Care Medicine,#2c928b
+Rheumatology,#ab2635
+Transplant Hepatology,#6b9d5a
+Addiction Psychiatry,#b765b8
+Brain Injury Medicine,#b2bc6b
+Child and Adolescent Psychiatry,#8f418d
+Clinical Neurophysiology,#a48020
+Epilepsy,#af8ee6
+Forensic Psychiatry,#a0580f
+Geriatric Psychiatry,#716fbb
+Neurodevelopmental Disabilities,#e0a352
+Neuromuscular Medicine,#634d93
+Psychosomatic Medicine,#bc581d
+Vascular Neurology,#4484b6
+Female Pelvic Medicine and Reconstructive Surgery,#f1945f
+Gynecologic Oncology,#4763a0
+Maternal and Fetal Medicine,#f58568
+Maternal-Fetal Medicine,#277257
+Reproductive Endocrinology and Infertility,#db97ed
+Reproductive Endocrinology/Infertility,#426c32
+Ophthalmic Plastic and Reconstructive Surgery,#ec92d5
+Adult Reconstructive Orthopaedics,#71661a
+Foot and Ankle Orthopaedics,#8564b4
+Musculoskeletal Oncology,#d0b673
+Orthopaedic Sports Medicine,#a297e1
+Orthopaedic Surgery of the Spine,#895c1d
+Orthopaedic Trauma,#8799d8
+Pediatric Orthopaedics,#9e471f
+Neurotology,#d2aae9
+Pediatric Otolaryngology,#738c4e
+Plastic Surgery Within the Head and Neck,#b13670
+Blood Banking/Transfusion Medicine,#b1bc7e
+Chemical Pathology,#c66bae
+Cytopathology,#91995e
+Forensic Pathology,#ba8dd4
+Hematology,#af8e48
+Hematopathology,#8b71b1
+Medical Microbiology,#efb07a
+Neuropathology,#cb86c8
+Pathology - Chemical,#726c37
+Pathology - Forensic,#e77199
+Pathology - Medical Microbiology,#d5a877
+Pathology - Molecular Genetic,#8b4a75
+Pathology - Pediatric,#dd9a6c
+Pediatric Pathology,#af75a1
+Selective Pathology,#c96940
+Child Abuse Pediatrics,#eb92ba
+Developmental-Behavioral Pediatrics,#85522e
+Neonatal-Perinatal Medicine,#cb6a98
+Pediatric Cardiology,#b77848
+Pediatric Critical Care Medicine,#b43456
+Pediatric Endocrinology,#9f7349
+Pediatric Gastroenterology,#e76681
+Pediatric Hematology-Oncology,#9b442f
+Pediatric Hematology/Oncology,#e79aa2
+Pediatric Hospital Medicine,#cb4c47
+Pediatric Infectious Diseases,#8b4a5f
+Pediatric Nephrology,#eb957f
+Pediatric Pulmonology,#9e445c
+Pediatric Rheumatology,#c06e51
+Pediatric Sports Medicine,#8f494f
+Pediatric Transplant Hepatology,#e76870
+Pediatric Rehabilitation,#9d5141
+Pediatric Rehabilitation Medicine,#e78085
+Spinal Cord Injury Medicine,#b54a4e
+Craniofacial Surgery,#bb6f6b
+Congenital Cardiac Surgery,#ce6552
+Pediatric Urology,#c4616a
